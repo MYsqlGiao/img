@@ -30,15 +30,15 @@ window.onload = function() {
         // 添加文字
         flower_header_append_code += flower_header_left.innerHTML;
         flower_header_append_code += '<div class="flower_header_self">';
-        flower_header_append_code += '<h3>云盘星-收集世间万物</h3>';
-        flower_header_append_code += '<div class="flower_header_self_headimg"><img src="https://www.xhto.cn/usr/themes/only/x-user/dropflower.jpg"></div>';
+        flower_header_append_code += '<h3>纪-令</h3>';
+        flower_header_append_code += '<div class="flower_header_self_headimg"><img src="http://img.zmyo.top/i/2023/05/08/6458e701c8009.jpeg"></div>';
         flower_header_append_code += '</div>';
         flower_header_append_code += '<div class="flower_header_dictum">';
-        flower_header_append_code += '<p>不理白驹过隙，不信生死有命</p>';
-        flower_header_append_code += '<h4>落花生</h4>';
+        flower_header_append_code += '<p>过好日子-就好</p>';
+        flower_header_append_code += '<h4>玛卡巴卡，唔西迪西，没有利息</h4>';
         flower_header_append_code += '</div>';
         flower_header_append_code += '<div class="flower_header_nav"><ul>';
-        flower_header_append_code += '<li><a href="javascript:;">首页</a></li><li><a href="javascript:;">启明星</a></li><li><a href="javascript:;">星环博客</a></li>';
+        flower_header_append_code += '<li><a href="javascript:;">首页</a></li><li><a href="javascript:;">网盘</a></li><li><a href="javascript:;">日常</a></li>';
         flower_header_append_code += '</ul></div>';
         // 执行写入
         flower_header_left.innerHTML = flower_header_append_code;
